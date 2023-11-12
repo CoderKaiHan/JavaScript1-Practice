@@ -1,0 +1,34 @@
+datatypes
+
+//////primitive/////
+
+Number
+-1,0,-5,5.0,infinity,Nan
+
+String (a string of colloections of characters)
+nicholas NICholas .,@#$%^^&*  5468544585 (emojis, other languages, etc.)
+
+Booleans
+true false
+
+null(absence of value, doesn't exist)
+
+
+undefined
+
+////////////object/////////////
+
+arrray(collection of anything)
+['nick','joe','kai']
+
+object
+
+const me{
+  name:'kai',
+  age:88,
+  location:'city',
+  languagesSpoken:['mandarin','english','etc']
+
+}
+
+[{}]
